@@ -2,7 +2,8 @@
   "name": "tarser",
   "version": "0.0.0",
   "description": "A simple parser combinator library",
-  "main": "index.js",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "scripts": {
     "test": "node --test",
     "lint": "gts lint",
